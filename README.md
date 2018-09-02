@@ -7,14 +7,19 @@ Add links to display others personal project demos.
 https://drive.google.com/file/d/1r-V5hHKJJMJNQkvkq55q3B3q66pFhToe/view?usp=sharing
 
 ## Milestones
+### Personal Site
 - [ ] Using github pages using jekyll
 - [ ] Work experiences with timeline style. Bottom to top with latest experience on top
+- [ ] Build like futuristic site with lightweight animation 
 - [ ] Displaying previous projects with tag filtering
+
+### Enhancement
 - [ ] Contact form submission
 - [ ] Google analytics
 - [ ] Auto chatbot integration
-- [ ] Build like futuristic site with lightweight animation 
 - [ ] Site optimizations
+
+### Documentation
 - [ ] Documentation to build similar kind of website
 
 
