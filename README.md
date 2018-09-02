@@ -5,6 +5,10 @@ Add links to display others personal project demos.
 
 ## Sample Sketch
 https://drive.google.com/file/d/1r-V5hHKJJMJNQkvkq55q3B3q66pFhToe/view?usp=sharing
+- [x] Main page
+- [ ] Work experiences
+- [ ] Projects
+- [ ] Education
 
 ## Milestones
 ### Personal Site
