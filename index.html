@@ -48,6 +48,29 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
+		
+	<script type="text/javascript">
+	(function(){
+	window['gobot'] = window['gobot'] || function(){(window['gobot'].queue = window['gobot'].queue || []).push(arguments)}
+	var script = document.createElement('script')
+	script.async = 1
+	script.src = 'https://www.getgobot.com/app/v1/gobot-client.js'
+	var insert = document.getElementsByTagName('script')[0]
+	insert.parentNode.insertBefore(script, insert)
+	})()
+	gobot('create', '-LNnClCGuor-_2e9rU0y')
+	gobot('pageview')
+	</script>
+		
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126823716-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-126823716-1');
+	</script>
 
 	</head>
 	<body>
@@ -599,18 +622,7 @@
 	
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
-	<script type="text/javascript">
-	(function(){
-	window['gobot'] = window['gobot'] || function(){(window['gobot'].queue = window['gobot'].queue || []).push(arguments)}
-	var script = document.createElement('script')
-	script.async = 1
-	script.src = 'https://www.getgobot.com/app/v1/gobot-client.js'
-	var insert = document.getElementsByTagName('script')[0]
-	insert.parentNode.insertBefore(script, insert)
-	})()
-	gobot('create', '-LNnClCGuor-_2e9rU0y')
-	gobot('pageview')
-	</script>
+	
 	</body>
 </html>
 
