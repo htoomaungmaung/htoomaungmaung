@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1r-V5hHKJJMJNQkvkq55q3B3q66pFhToe/view?usp=shari
 ### Enhancement
 - [ ] Contact form submission
 - [ ] Google analytics
-- [ ] Auto chatbot integration
+- [x] Auto chatbot integration
 - [ ] Site optimizations
 
 ### Documentation
